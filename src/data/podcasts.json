@@ -1,0 +1,57 @@
+{
+  "navigation": [
+    {
+      "name": "Main",
+      "url": "/",
+      "isButton": false
+    },
+    {
+      "name": "About",
+      "url": "/about",
+      "isButton": false
+    },
+    {
+      "name": "Sign In",
+      "url": "/signin",
+      "isButton": true
+    }
+  ],
+  "podcasts": [
+    {
+      "id": "1",
+      "title": "The Future of AI Development",
+      "date": "2024-03-15",
+      "duration": "45:30",
+      "description": "Exploring the latest trends in artificial intelligence and its impact on software development",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "tags": ["technology", "ai", "development"],
+      "host": "Sarah Chen",
+      "episode": "EP45"
+    },
+    {
+      "id": "2",
+      "title": "Sustainable Architecture",
+      "date": "2024-03-14",
+      "duration": "38:15",
+      "description": "Discussing modern approaches to eco-friendly building design",
+      "imageUrl": "https://images.unsplash.com/photo-1518005020951-eccb494ad742",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+      "tags": ["architecture", "sustainability", "design"],
+      "host": "Michael Torres",
+      "episode": "EP23"
+    },
+    {
+      "id": "3",
+      "title": "Mental Health in Tech",
+      "date": "2024-03-13",
+      "duration": "52:20",
+      "description": "Addressing the importance of mental well-being in the tech industry",
+      "imageUrl": "https://images.unsplash.com/photo-1593062096033-9a26b09da705",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+      "tags": ["health", "technology", "wellness"],
+      "host": "Dr. Emily Watson",
+      "episode": "EP67"
+    }
+  ]
+}
